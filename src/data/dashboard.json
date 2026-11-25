@@ -1,0 +1,238 @@
+{
+  "summaryCards": {
+    "totalOrdersToday": {
+      "title": "Total Orders Today",
+      "value": 148,
+      "change": 12.5,
+      "period": "vs yesterday",
+      "subtitle": "Combined dine-in & takeaway"
+    },
+    "pendingOrders": {
+      "title": "Pending Orders",
+      "value": 8,
+      "change": -4.2,
+      "period": "Requires kitchen review",
+      "subtitle": "Queue response time: 2.1m"
+    },
+    "preparingOrders": {
+      "title": "Preparing Orders",
+      "value": 14,
+      "change": 8.0,
+      "period": "In kitchen prep",
+      "subtitle": "Average wait: 14 mins"
+    },
+    "completedOrders": {
+      "title": "Completed Orders",
+      "value": 126,
+      "change": 15.3,
+      "period": "Settled & delivered",
+      "subtitle": "98.4% fulfillment rate"
+    },
+    "totalOrderValue": {
+      "title": "Total Order Value",
+      "value": "$4,892.50",
+      "rawValue": 4892.5,
+      "change": 18.2,
+      "period": "vs yesterday",
+      "subtitle": "Average ticket: $33.05"
+    }
+  },
+  "orderOverviewWeekly": [
+    { "day": "Mon", "orders": 98, "revenue": 3120, "averageTicket": 31.8 },
+    { "day": "Tue", "orders": 115, "revenue": 3840, "averageTicket": 33.4 },
+    { "day": "Wed", "orders": 108, "revenue": 3490, "averageTicket": 32.3 },
+    { "day": "Thu", "orders": 132, "revenue": 4210, "averageTicket": 31.9 },
+    { "day": "Fri", "orders": 175, "revenue": 5890, "averageTicket": 33.6 },
+    { "day": "Sat", "orders": 210, "revenue": 7120, "averageTicket": 33.9 },
+    { "day": "Sun", "orders": 185, "revenue": 6150, "averageTicket": 33.2 }
+  ],
+  "orderStatusDistribution": [
+    { "status": "Pending", "count": 8, "percentage": 5.4, "color": "#f59e0b" },
+    { "status": "Accepted", "count": 12, "percentage": 8.1, "color": "#3b82f6" },
+    { "status": "Preparing", "count": 14, "percentage": 9.5, "color": "#F47738" },
+    { "status": "Ready", "count": 9, "percentage": 6.1, "color": "#8b5cf6" },
+    { "status": "Completed", "count": 126, "percentage": 85.1, "color": "#10b981" },
+    { "status": "Rejected", "count": 3, "percentage": 2.0, "color": "#ef4444" }
+  ],
+  "recentOrders": [
+    {
+      "orderNumber": "#ORD-3925",
+      "tableNumber": "Table 04",
+      "itemCount": 4,
+      "itemsSummary": "Truffle Ribeye Steak, Caesar Salad, Cabernet Wine x2",
+      "amount": 94.50,
+      "status": "Preparing",
+      "orderTime": "12:45 PM",
+      "elapsedMinutes": 5
+    },
+    {
+      "orderNumber": "#ORD-3924",
+      "tableNumber": "Table 12",
+      "itemCount": 3,
+      "itemsSummary": "Wood-fired Margherita Pizza x2, Iced Lemon Tea",
+      "amount": 42.00,
+      "status": "Ready",
+      "orderTime": "12:38 PM",
+      "elapsedMinutes": 12
+    },
+    {
+      "orderNumber": "#ORD-3923",
+      "tableNumber": "Takeaway #03",
+      "itemCount": 2,
+      "itemsSummary": "Seafood Saffron Paella, Crispy Garlic Calamari",
+      "amount": 56.00,
+      "status": "Accepted",
+      "orderTime": "12:31 PM",
+      "elapsedMinutes": 19
+    },
+    {
+      "orderNumber": "#ORD-3922",
+      "tableNumber": "Table 08",
+      "itemCount": 5,
+      "itemsSummary": "Mushroom Risotto x2, Tiramisu Special x2, Espresso",
+      "amount": 82.50,
+      "status": "Completed",
+      "orderTime": "12:15 PM",
+      "elapsedMinutes": 35
+    },
+    {
+      "orderNumber": "#ORD-3921",
+      "tableNumber": "Table 02",
+      "itemCount": 2,
+      "itemsSummary": "Grilled Salmon Fillet, Sparkling Mineral Water",
+      "amount": 34.50,
+      "status": "Completed",
+      "orderTime": "12:02 PM",
+      "elapsedMinutes": 48
+    },
+    {
+      "orderNumber": "#ORD-3920",
+      "tableNumber": "Table 09",
+      "itemCount": 3,
+      "itemsSummary": "Spicy Arrabbiata Penne, Garlic Bread, Coke Zero",
+      "amount": 29.00,
+      "status": "Pending",
+      "orderTime": "11:58 AM",
+      "elapsedMinutes": 52
+    },
+    {
+      "orderNumber": "#ORD-3919",
+      "tableNumber": "Table 06",
+      "itemCount": 1,
+      "itemsSummary": "Braised Lamb Shank (Out of Stock Request)",
+      "amount": 38.00,
+      "status": "Rejected",
+      "orderTime": "11:42 AM",
+      "elapsedMinutes": 68
+    }
+  ],
+  "popularFoodItems": [
+    {
+      "id": "item-1",
+      "name": "Truffle Ribeye Steak",
+      "category": "Chef Specials",
+      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=300&auto=format&fit=crop&q=80",
+      "ordersCount": 382,
+      "price": 44.00,
+      "rating": 4.9,
+      "revenue": 16808.00
+    },
+    {
+      "id": "item-2",
+      "name": "Wood-fired Margherita",
+      "category": "Artisan Pizza",
+      "image": "https://images.unsplash.com/photo-1604382355076-af4b0eb60143?w=300&auto=format&fit=crop&q=80",
+      "ordersCount": 514,
+      "price": 18.50,
+      "rating": 4.8,
+      "revenue": 9509.00
+    },
+    {
+      "id": "item-3",
+      "name": "Wild Mushroom Risotto",
+      "category": "Pasta & Rice",
+      "image": "https://images.unsplash.com/photo-1633964913295-ceb43826e7c9?w=300&auto=format&fit=crop&q=80",
+      "ordersCount": 310,
+      "price": 26.00,
+      "rating": 4.7,
+      "revenue": 8060.00
+    },
+    {
+      "id": "item-4",
+      "name": "Seafood Saffron Paella",
+      "category": "Seafood",
+      "image": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?w=300&auto=format&fit=crop&q=80",
+      "ordersCount": 275,
+      "price": 36.00,
+      "rating": 4.9,
+      "revenue": 9900.00
+    },
+    {
+      "id": "item-5",
+      "name": "Tiramisu House Special",
+      "category": "Desserts",
+      "image": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?w=300&auto=format&fit=crop&q=80",
+      "ordersCount": 428,
+      "price": 11.50,
+      "rating": 4.9,
+      "revenue": 4922.00
+    }
+  ],
+  "recentActivity": [
+    {
+      "id": "act-1",
+      "type": "New order",
+      "title": "New order received",
+      "orderNumber": "#ORD-3925",
+      "table": "Table 04",
+      "description": "4 items placed for guest table 04",
+      "timestamp": "12:45 PM",
+      "timeAgo": "5 mins ago",
+      "status": "warning"
+    },
+    {
+      "id": "act-2",
+      "type": "Order accepted",
+      "title": "Order accepted by kitchen",
+      "orderNumber": "#ORD-3923",
+      "table": "Takeaway #03",
+      "description": "Kitchen station #2 confirmed prep ticket",
+      "timestamp": "12:31 PM",
+      "timeAgo": "19 mins ago",
+      "status": "info"
+    },
+    {
+      "id": "act-3",
+      "type": "Order ready",
+      "title": "Order ready for service",
+      "orderNumber": "#ORD-3924",
+      "table": "Table 12",
+      "description": "Plated and waiting under heat pass",
+      "timestamp": "12:38 PM",
+      "timeAgo": "12 mins ago",
+      "status": "purple"
+    },
+    {
+      "id": "act-4",
+      "type": "Order completed",
+      "title": "Order completed & settled",
+      "orderNumber": "#ORD-3922",
+      "table": "Table 08",
+      "description": "Paid $82.50 via contactless terminal",
+      "timestamp": "12:15 PM",
+      "timeAgo": "35 mins ago",
+      "status": "success"
+    },
+    {
+      "id": "act-5",
+      "type": "Order completed",
+      "title": "Order completed & settled",
+      "orderNumber": "#ORD-3921",
+      "table": "Table 02",
+      "description": "Guest departed, table cleared for cleaning",
+      "timestamp": "12:02 PM",
+      "timeAgo": "48 mins ago",
+      "status": "success"
+    }
+  ]
+}

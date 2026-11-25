@@ -1,0 +1,169 @@
+[
+  {
+    "id": "ord-101",
+    "orderNumber": "#ORD-8945",
+    "tableNumber": "Table 04",
+    "items": [
+      {
+        "id": "item-1",
+        "name": "Truffle Ribeye Steak",
+        "quantity": 2,
+        "price": 44.00
+      },
+      {
+        "id": "item-5",
+        "name": "Burrata Caprese Board",
+        "quantity": 1,
+        "price": 17.00
+      },
+      {
+        "id": "item-9",
+        "name": "Smoked Old Fashioned",
+        "quantity": 2,
+        "price": 15.00
+      }
+    ],
+    "totalItems": 5,
+    "subtotal": 135.00,
+    "status": "Pending",
+    "createdAt": "12:48 PM"
+  },
+  {
+    "id": "ord-102",
+    "orderNumber": "#ORD-8944",
+    "tableNumber": "Table 12",
+    "items": [
+      {
+        "id": "item-2",
+        "name": "Wood-fired Margherita Pizza",
+        "quantity": 2,
+        "price": 18.50
+      },
+      {
+        "id": "item-7",
+        "name": "Spicy Calabrian Diavola Pizza",
+        "quantity": 1,
+        "price": 21.00
+      },
+      {
+        "id": "item-9",
+        "name": "Craft Lemonade",
+        "quantity": 3,
+        "price": 6.00
+      }
+    ],
+    "totalItems": 6,
+    "subtotal": 76.00,
+    "status": "Pending",
+    "createdAt": "12:44 PM"
+  },
+  {
+    "id": "ord-103",
+    "orderNumber": "#ORD-8943",
+    "tableNumber": "Patio Table 05",
+    "items": [
+      {
+        "id": "item-4",
+        "name": "Saffron Seafood Paella",
+        "quantity": 2,
+        "price": 36.00
+      },
+      {
+        "id": "item-6",
+        "name": "Classic Venetian Tiramisu",
+        "quantity": 2,
+        "price": 11.50
+      }
+    ],
+    "totalItems": 4,
+    "subtotal": 95.00,
+    "status": "Accepted",
+    "createdAt": "12:39 PM"
+  },
+  {
+    "id": "ord-104",
+    "orderNumber": "#ORD-8942",
+    "tableNumber": "Table 08",
+    "items": [
+      {
+        "id": "item-3",
+        "name": "Wild Mushroom Risotto",
+        "quantity": 2,
+        "price": 26.00
+      },
+      {
+        "id": "item-5",
+        "name": "Burrata Caprese Board",
+        "quantity": 1,
+        "price": 17.00
+      }
+    ],
+    "totalItems": 3,
+    "subtotal": 69.00,
+    "status": "Preparing",
+    "createdAt": "12:31 PM"
+  },
+  {
+    "id": "ord-105",
+    "orderNumber": "#ORD-8941",
+    "tableNumber": "Chef's Counter 06",
+    "items": [
+      {
+        "id": "item-1",
+        "name": "Truffle Ribeye Steak",
+        "quantity": 1,
+        "price": 44.00
+      },
+      {
+        "id": "item-8",
+        "name": "Pan-Seared Chilean Sea Bass",
+        "quantity": 1,
+        "price": 42.00
+      }
+    ],
+    "totalItems": 2,
+    "subtotal": 86.00,
+    "status": "Ready",
+    "createdAt": "12:22 PM"
+  },
+  {
+    "id": "ord-106",
+    "orderNumber": "#ORD-8940",
+    "tableNumber": "Table 02",
+    "items": [
+      {
+        "id": "item-2",
+        "name": "Wood-fired Margherita Pizza",
+        "quantity": 1,
+        "price": 18.50
+      },
+      {
+        "id": "item-6",
+        "name": "Classic Venetian Tiramisu",
+        "quantity": 1,
+        "price": 11.50
+      }
+    ],
+    "totalItems": 2,
+    "subtotal": 30.00,
+    "status": "Completed",
+    "createdAt": "12:05 PM"
+  },
+  {
+    "id": "ord-107",
+    "orderNumber": "#ORD-8939",
+    "tableNumber": "Table 09",
+    "items": [
+      {
+        "id": "item-10",
+        "name": "Braised Lamb Shank Fondue",
+        "quantity": 1,
+        "price": 38.00
+      }
+    ],
+    "totalItems": 1,
+    "subtotal": 38.00,
+    "status": "Rejected",
+    "createdAt": "11:50 AM"
+  }
+]

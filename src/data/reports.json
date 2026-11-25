@@ -1,0 +1,193 @@
+{
+  "summary": {
+    "dailyOrderCount": 148,
+    "acceptedOrders": 142,
+    "rejectedOrders": 3,
+    "completedOrders": 126,
+    "pendingOrders": 8,
+    "preparingOrders": 14,
+    "orderValueSummaries": {
+      "totalGrossSales": 4892.50,
+      "netSettledSales": 4620.00,
+      "averageOrderValue": 33.05,
+      "taxCollected": 391.40,
+      "discountsTotal": 118.90
+    }
+  },
+  "weeklyTrend": [
+    {
+      "date": "2026-02-11",
+      "day": "Wed",
+      "totalOrders": 108,
+      "accepted": 105,
+      "rejected": 3,
+      "completed": 98,
+      "orderValue": 3490.00
+    },
+    {
+      "date": "2026-02-12",
+      "day": "Thu",
+      "totalOrders": 132,
+      "accepted": 128,
+      "rejected": 4,
+      "completed": 122,
+      "orderValue": 4210.00
+    },
+    {
+      "date": "2026-02-13",
+      "day": "Fri",
+      "totalOrders": 175,
+      "accepted": 170,
+      "rejected": 5,
+      "completed": 164,
+      "orderValue": 5890.00
+    },
+    {
+      "date": "2026-02-14",
+      "day": "Sat",
+      "totalOrders": 210,
+      "accepted": 204,
+      "rejected": 6,
+      "completed": 198,
+      "orderValue": 7120.00
+    },
+    {
+      "date": "2026-02-15",
+      "day": "Sun",
+      "totalOrders": 185,
+      "accepted": 181,
+      "rejected": 4,
+      "completed": 176,
+      "orderValue": 6150.00
+    },
+    {
+      "date": "2026-02-16",
+      "day": "Mon",
+      "totalOrders": 98,
+      "accepted": 96,
+      "rejected": 2,
+      "completed": 92,
+      "orderValue": 3120.00
+    },
+    {
+      "date": "2026-02-17",
+      "day": "Tue",
+      "totalOrders": 148,
+      "accepted": 142,
+      "rejected": 3,
+      "completed": 126,
+      "orderValue": 4892.50
+    }
+  ],
+  "statusDistribution": [
+    {
+      "status": "Completed",
+      "count": 126,
+      "percentage": 85.1,
+      "color": "#10b981"
+    },
+    {
+      "status": "Accepted",
+      "count": 142,
+      "percentage": 95.9,
+      "color": "#3b82f6"
+    },
+    {
+      "status": "Preparing",
+      "count": 14,
+      "percentage": 9.5,
+      "color": "#F47738"
+    },
+    {
+      "status": "Pending",
+      "count": 8,
+      "percentage": 5.4,
+      "color": "#f59e0b"
+    },
+    {
+      "status": "Rejected",
+      "count": 3,
+      "percentage": 2.0,
+      "color": "#ef4444"
+    }
+  ],
+  "dailyBreakdown": [
+    {
+      "date": "2026-02-17",
+      "day": "Tuesday",
+      "orders": 148,
+      "accepted": 142,
+      "rejected": 3,
+      "completed": 126,
+      "grossSales": 4892.50,
+      "avgTicket": 33.05,
+      "topSellingCategory": "Artisan Pizza"
+    },
+    {
+      "date": "2026-02-16",
+      "day": "Monday",
+      "orders": 98,
+      "accepted": 96,
+      "rejected": 2,
+      "completed": 92,
+      "grossSales": 3120.00,
+      "avgTicket": 31.84,
+      "topSellingCategory": "Handmade Pasta"
+    },
+    {
+      "date": "2026-02-15",
+      "day": "Sunday",
+      "orders": 185,
+      "accepted": 181,
+      "rejected": 4,
+      "completed": 176,
+      "grossSales": 6150.00,
+      "avgTicket": 33.24,
+      "topSellingCategory": "Chef's Prime Cuts"
+    },
+    {
+      "date": "2026-02-14",
+      "day": "Saturday",
+      "orders": 210,
+      "accepted": 204,
+      "rejected": 6,
+      "completed": 198,
+      "grossSales": 7120.00,
+      "avgTicket": 33.90,
+      "topSellingCategory": "Chef's Prime Cuts"
+    },
+    {
+      "date": "2026-02-13",
+      "day": "Friday",
+      "orders": 175,
+      "accepted": 170,
+      "rejected": 5,
+      "completed": 164,
+      "grossSales": 5890.00,
+      "avgTicket": 33.66,
+      "topSellingCategory": "Artisan Pizza"
+    },
+    {
+      "date": "2026-02-12",
+      "day": "Thursday",
+      "orders": 132,
+      "accepted": 128,
+      "rejected": 4,
+      "completed": 122,
+      "grossSales": 4210.00,
+      "avgTicket": 31.89,
+      "topSellingCategory": "Mediterranean Seafood"
+    },
+    {
+      "date": "2026-02-11",
+      "day": "Wednesday",
+      "orders": 108,
+      "accepted": 105,
+      "rejected": 3,
+      "completed": 98,
+      "grossSales": 3490.00,
+      "avgTicket": 32.31,
+      "topSellingCategory": "Appetizers & Tapas"
+    }
+  ]
+}

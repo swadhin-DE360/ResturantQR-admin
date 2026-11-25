@@ -1,0 +1,66 @@
+[
+  {
+    "id": "tbl-1",
+    "tableNumber": "TABLE-001",
+    "tableName": "Window Booth #1",
+    "qrToken": "tok_wbooth_001_8a92f",
+    "status": "Active",
+    "createdAt": "2026-01-10"
+  },
+  {
+    "id": "tbl-2",
+    "tableNumber": "TABLE-002",
+    "tableName": "Window Booth #2",
+    "qrToken": "tok_wbooth_002_4b71c",
+    "status": "Active",
+    "createdAt": "2026-01-10"
+  },
+  {
+    "id": "tbl-3",
+    "tableNumber": "TABLE-003",
+    "tableName": "Main Floor Central A",
+    "qrToken": "tok_mfloor_003_9c34d",
+    "status": "Active",
+    "createdAt": "2026-01-12"
+  },
+  {
+    "id": "tbl-4",
+    "tableNumber": "TABLE-004",
+    "tableName": "Main Floor Central B",
+    "qrToken": "tok_mfloor_004_1e89a",
+    "status": "Active",
+    "createdAt": "2026-01-12"
+  },
+  {
+    "id": "tbl-5",
+    "tableNumber": "TABLE-005",
+    "tableName": "Patio Garden Pergola",
+    "qrToken": "tok_patio_005_7f23e",
+    "status": "Active",
+    "createdAt": "2026-01-15"
+  },
+  {
+    "id": "tbl-6",
+    "tableNumber": "TABLE-006",
+    "tableName": "Chef's Counter #1",
+    "qrToken": "tok_ccounter_006_5d12b",
+    "status": "Active",
+    "createdAt": "2026-01-18"
+  },
+  {
+    "id": "tbl-7",
+    "tableNumber": "TABLE-007",
+    "tableName": "Private Wine Cellar Table",
+    "qrToken": "tok_wcellar_007_6a55c",
+    "status": "Active",
+    "createdAt": "2026-01-20"
+  },
+  {
+    "id": "tbl-8",
+    "tableNumber": "TABLE-008",
+    "tableName": "Mezzanine Lounge A",
+    "qrToken": "tok_mezz_008_3b99f",
+    "status": "Inactive",
+    "createdAt": "2026-01-25"
+  }
+]

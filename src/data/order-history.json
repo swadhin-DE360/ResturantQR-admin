@@ -1,0 +1,258 @@
+[
+  {
+    "id": "hist-001",
+    "orderNumber": "#ORD-8938",
+    "tableNumber": "Table 04",
+    "dateTime": "2026-02-17 21:15",
+    "items": [
+      { "id": "it-1", "name": "Truffle Ribeye Steak", "quantity": 2, "price": 44.00 },
+      { "id": "it-2", "name": "Burrata Caprese Board", "quantity": 1, "price": 17.00 },
+      { "id": "it-3", "name": "Smoked Old Fashioned", "quantity": 2, "price": 15.00 }
+    ],
+    "itemCount": 5,
+    "subtotal": 135.00,
+    "finalStatus": "Completed",
+    "paymentMethod": "Apple Pay"
+  },
+  {
+    "id": "hist-002",
+    "orderNumber": "#ORD-8937",
+    "tableNumber": "Table 12",
+    "dateTime": "2026-02-17 20:48",
+    "items": [
+      { "id": "it-4", "name": "Wood-fired Margherita Pizza", "quantity": 2, "price": 18.50 },
+      { "id": "it-5", "name": "Spicy Calabrian Diavola Pizza", "quantity": 1, "price": 21.00 },
+      { "id": "it-6", "name": "Craft Lemonade", "quantity": 2, "price": 6.00 }
+    ],
+    "itemCount": 5,
+    "subtotal": 70.00,
+    "finalStatus": "Completed",
+    "paymentMethod": "Credit Card"
+  },
+  {
+    "id": "hist-003",
+    "orderNumber": "#ORD-8936",
+    "tableNumber": "Table 08",
+    "dateTime": "2026-02-17 20:20",
+    "items": [
+      { "id": "it-7", "name": "Wild Mushroom Risotto", "quantity": 2, "price": 26.00 },
+      { "id": "it-8", "name": "Classic Venetian Tiramisu", "quantity": 2, "price": 11.50 }
+    ],
+    "itemCount": 4,
+    "subtotal": 75.00,
+    "finalStatus": "Completed",
+    "paymentMethod": "Contactless"
+  },
+  {
+    "id": "hist-004",
+    "orderNumber": "#ORD-8935",
+    "tableNumber": "Table 02",
+    "dateTime": "2026-02-17 19:55",
+    "items": [
+      { "id": "it-9", "name": "Braised Lamb Shank Fondue", "quantity": 2, "price": 38.00 }
+    ],
+    "itemCount": 2,
+    "subtotal": 76.00,
+    "finalStatus": "Cancelled",
+    "paymentMethod": "Voided"
+  },
+  {
+    "id": "hist-005",
+    "orderNumber": "#ORD-8934",
+    "tableNumber": "Patio 05",
+    "dateTime": "2026-02-17 19:30",
+    "items": [
+      { "id": "it-10", "name": "Saffron Seafood Paella", "quantity": 2, "price": 36.00 },
+      { "id": "it-11", "name": "Crispy Calamari Tapas", "quantity": 1, "price": 16.00 },
+      { "id": "it-12", "name": "Pinot Grigio Bottle", "quantity": 1, "price": 48.00 }
+    ],
+    "itemCount": 4,
+    "subtotal": 136.00,
+    "finalStatus": "Completed",
+    "paymentMethod": "Credit Card"
+  },
+  {
+    "id": "hist-006",
+    "orderNumber": "#ORD-8933",
+    "tableNumber": "Table 09",
+    "dateTime": "2026-02-17 19:05",
+    "items": [
+      { "id": "it-13", "name": "Pan-Seared Chilean Sea Bass", "quantity": 2, "price": 42.00 },
+      { "id": "it-14", "name": "Sparkling San Pellegrino", "quantity": 2, "price": 5.50 }
+    ],
+    "itemCount": 4,
+    "subtotal": 95.00,
+    "finalStatus": "Completed",
+    "paymentMethod": "Apple Pay"
+  },
+  {
+    "id": "hist-007",
+    "orderNumber": "#ORD-8932",
+    "tableNumber": "Chef's Counter 06",
+    "dateTime": "2026-02-16 21:40",
+    "items": [
+      { "id": "it-15", "name": "Chef Omakase Tasting Course", "quantity": 2, "price": 95.00 },
+      { "id": "it-16", "name": "Wine Pairing Flight", "quantity": 2, "price": 45.00 }
+    ],
+    "itemCount": 4,
+    "subtotal": 280.00,
+    "finalStatus": "Completed",
+    "paymentMethod": "Credit Card"
+  },
+  {
+    "id": "hist-008",
+    "orderNumber": "#ORD-8931",
+    "tableNumber": "Table 01",
+    "dateTime": "2026-02-16 20:50",
+    "items": [
+      { "id": "it-17", "name": "Wood-fired Margherita Pizza", "quantity": 1, "price": 18.50 },
+      { "id": "it-18", "name": "Classic Venetian Tiramisu", "quantity": 1, "price": 11.50 }
+    ],
+    "itemCount": 2,
+    "subtotal": 30.00,
+    "finalStatus": "Refunded",
+    "paymentMethod": "Refunded Card"
+  },
+  {
+    "id": "hist-009",
+    "orderNumber": "#ORD-8930",
+    "tableNumber": "Table 03",
+    "dateTime": "2026-02-16 20:15",
+    "items": [
+      { "id": "it-19", "name": "Truffle Ribeye Steak", "quantity": 1, "price": 44.00 },
+      { "id": "it-20", "name": "Handmade Tagliatelle Ragu", "quantity": 1, "price": 24.00 }
+    ],
+    "itemCount": 2,
+    "subtotal": 68.00,
+    "finalStatus": "Completed",
+    "paymentMethod": "Cash"
+  },
+  {
+    "id": "hist-010",
+    "orderNumber": "#ORD-8929",
+    "tableNumber": "Table 07",
+    "dateTime": "2026-02-16 19:25",
+    "items": [
+      { "id": "it-21", "name": "Burrata Caprese Board", "quantity": 2, "price": 17.00 },
+      { "id": "it-22", "name": "Wood-fired Margherita Pizza", "quantity": 2, "price": 18.50 },
+      { "id": "it-23", "name": "Peroni Draft Beer", "quantity": 4, "price": 7.00 }
+    ],
+    "itemCount": 8,
+    "subtotal": 99.00,
+    "finalStatus": "Completed",
+    "paymentMethod": "Credit Card"
+  },
+  {
+    "id": "hist-011",
+    "orderNumber": "#ORD-8928",
+    "tableNumber": "Table 11",
+    "dateTime": "2026-02-15 21:30",
+    "items": [
+      { "id": "it-24", "name": "Saffron Seafood Paella", "quantity": 3, "price": 36.00 },
+      { "id": "it-25", "name": "Garlic Focaccia Basket", "quantity": 2, "price": 8.00 }
+    ],
+    "itemCount": 5,
+    "subtotal": 124.00,
+    "finalStatus": "Completed",
+    "paymentMethod": "Apple Pay"
+  },
+  {
+    "id": "hist-012",
+    "orderNumber": "#ORD-8927",
+    "tableNumber": "Table 04",
+    "dateTime": "2026-02-15 20:10",
+    "items": [
+      { "id": "it-26", "name": "Spicy Calabrian Diavola Pizza", "quantity": 2, "price": 21.00 },
+      { "id": "it-27", "name": "Craft IPA Draft", "quantity": 3, "price": 8.00 }
+    ],
+    "itemCount": 5,
+    "subtotal": 66.00,
+    "finalStatus": "Completed",
+    "paymentMethod": "Contactless"
+  },
+  {
+    "id": "hist-013",
+    "orderNumber": "#ORD-8926",
+    "tableNumber": "Table 10",
+    "dateTime": "2026-02-15 19:40",
+    "items": [
+      { "id": "it-28", "name": "Wild Mushroom Risotto", "quantity": 1, "price": 26.00 },
+      { "id": "it-29", "name": "Pan-Seared Chilean Sea Bass", "quantity": 1, "price": 42.00 }
+    ],
+    "itemCount": 2,
+    "subtotal": 68.00,
+    "finalStatus": "Cancelled",
+    "paymentMethod": "Voided"
+  },
+  {
+    "id": "hist-014",
+    "orderNumber": "#ORD-8925",
+    "tableNumber": "Patio 02",
+    "dateTime": "2026-02-14 21:50",
+    "items": [
+      { "id": "it-30", "name": "Valentine Truffle Special", "quantity": 2, "price": 85.00 },
+      { "id": "it-31", "name": "Champagne Rose Bottle", "quantity": 1, "price": 120.00 },
+      { "id": "it-32", "name": "Molten Chocolate Lava Cake", "quantity": 2, "price": 14.00 }
+    ],
+    "itemCount": 5,
+    "subtotal": 318.00,
+    "finalStatus": "Completed",
+    "paymentMethod": "Credit Card"
+  },
+  {
+    "id": "hist-015",
+    "orderNumber": "#ORD-8924",
+    "tableNumber": "Table 05",
+    "dateTime": "2026-02-14 20:30",
+    "items": [
+      { "id": "it-33", "name": "Truffle Ribeye Steak", "quantity": 2, "price": 44.00 },
+      { "id": "it-34", "name": "Barolo DOCG Red Wine", "quantity": 1, "price": 65.00 }
+    ],
+    "itemCount": 3,
+    "subtotal": 153.00,
+    "finalStatus": "Completed",
+    "paymentMethod": "Credit Card"
+  },
+  {
+    "id": "hist-016",
+    "orderNumber": "#ORD-8923",
+    "tableNumber": "Table 08",
+    "dateTime": "2026-02-14 19:15",
+    "items": [
+      { "id": "it-35", "name": "Wood-fired Margherita Pizza", "quantity": 3, "price": 18.50 },
+      { "id": "it-36", "name": "Lemon Ricotta Cannoli", "quantity": 3, "price": 9.00 }
+    ],
+    "itemCount": 6,
+    "subtotal": 82.50,
+    "finalStatus": "Completed",
+    "paymentMethod": "Cash"
+  },
+  {
+    "id": "hist-017",
+    "orderNumber": "#ORD-8922",
+    "tableNumber": "Table 02",
+    "dateTime": "2026-02-13 21:10",
+    "items": [
+      { "id": "it-37", "name": "Saffron Seafood Paella", "quantity": 2, "price": 36.00 },
+      { "id": "it-38", "name": "Tapas Garlic Prawns", "quantity": 1, "price": 18.00 }
+    ],
+    "itemCount": 3,
+    "subtotal": 90.00,
+    "finalStatus": "Completed",
+    "paymentMethod": "Apple Pay"
+  },
+  {
+    "id": "hist-018",
+    "orderNumber": "#ORD-8921",
+    "tableNumber": "Table 06",
+    "dateTime": "2026-02-13 20:00",
+    "items": [
+      { "id": "it-39", "name": "Braised Lamb Shank Fondue", "quantity": 1, "price": 38.00 },
+      { "id": "it-40", "name": "Wild Mushroom Risotto", "quantity": 1, "price": 26.00 }
+    ],
+    "itemCount": 2,
+    "subtotal": 64.00,
+    "finalStatus": "Completed",
+    "paymentMethod": "Contactless"
+  }
+]

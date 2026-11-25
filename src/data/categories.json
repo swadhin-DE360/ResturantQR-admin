@@ -1,0 +1,66 @@
+[
+  {
+    "id": "cat-1",
+    "name": "Artisan Pizza",
+    "description": "Traditional hand-stretched sourdough pizzas baked in high-temp wood-fired stone oven.",
+    "image": "https://images.unsplash.com/photo-1604382355076-af4b0eb60143?w=500&auto=format&fit=crop&q=80",
+    "status": "Active",
+    "createdAt": "2026-01-15"
+  },
+  {
+    "id": "cat-2",
+    "name": "Chef's Prime Cuts",
+    "description": "Dry-aged steaks, wagyu striploin, and rosemary garlic butter roasted meats.",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=500&auto=format&fit=crop&q=80",
+    "status": "Active",
+    "createdAt": "2026-01-18"
+  },
+  {
+    "id": "cat-3",
+    "name": "Handmade Pasta & Risotto",
+    "description": "Freshly rolled egg pasta, truffle risotto, and classic slow-simmered regional ragus.",
+    "image": "https://images.unsplash.com/photo-1633964913295-ceb43826e7c9?w=500&auto=format&fit=crop&q=80",
+    "status": "Active",
+    "createdAt": "2026-01-22"
+  },
+  {
+    "id": "cat-4",
+    "name": "Mediterranean Seafood",
+    "description": "Wild-caught grilled sea bass, saffron paella, garlic calamari, and shellfish broth.",
+    "image": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?w=500&auto=format&fit=crop&q=80",
+    "status": "Active",
+    "createdAt": "2026-01-25"
+  },
+  {
+    "id": "cat-5",
+    "name": "Appetizers & Tapas",
+    "description": "Gourmet charcuterie boards, burrata caprese, bruschetta, and truffle parmesan fries.",
+    "image": "https://images.unsplash.com/photo-1541529086526-db283c563270?w=500&auto=format&fit=crop&q=80",
+    "status": "Active",
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "cat-6",
+    "name": "Artisanal Desserts",
+    "description": "House-made classic tiramisu, molten lava cakes, pistachio cannoli, and seasonal sorbet.",
+    "image": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?w=500&auto=format&fit=crop&q=80",
+    "status": "Active",
+    "createdAt": "2026-02-05"
+  },
+  {
+    "id": "cat-7",
+    "name": "Craft Beverages & Wine",
+    "description": "Signature mocktails, curated regional wine pairings, craft lemonades, and espresso.",
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=500&auto=format&fit=crop&q=80",
+    "status": "Active",
+    "createdAt": "2026-02-08"
+  },
+  {
+    "id": "cat-8",
+    "name": "Seasonal Winter Specials",
+    "description": "Limited-edition holiday roast, spiced apple cider, and festive truffle fondue.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=500&auto=format&fit=crop&q=80",
+    "status": "Inactive",
+    "createdAt": "2026-02-12"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "food-1",
+    "name": "Truffle Ribeye Steak",
+    "description": "12oz USDA Prime ribeye basted with black truffle herb butter, served with roasted garlic baby potatoes.",
+    "categoryId": "cat-2",
+    "categoryName": "Chef's Prime Cuts",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=500&auto=format&fit=crop&q=80",
+    "price": 44.00,
+    "availability": "Available",
+    "status": "Active",
+    "createdAt": "2026-01-16"
+  },
+  {
+    "id": "food-2",
+    "name": "Wood-fired Margherita Pizza",
+    "description": "San Marzano tomato sauce, fresh buffalo mozzarella, fresh sweet basil, and extra virgin olive oil.",
+    "categoryId": "cat-1",
+    "categoryName": "Artisan Pizza",
+    "image": "https://images.unsplash.com/photo-1604382355076-af4b0eb60143?w=500&auto=format&fit=crop&q=80",
+    "price": 18.50,
+    "availability": "Available",
+    "status": "Active",
+    "createdAt": "2026-01-16"
+  },
+  {
+    "id": "food-3",
+    "name": "Wild Mushroom Risotto",
+    "description": "Creamy Carnaroli rice with porcini and chanterelle mushrooms, aged Parmigiano Reggiano, and white truffle oil.",
+    "categoryId": "cat-3",
+    "categoryName": "Handmade Pasta & Risotto",
+    "image": "https://images.unsplash.com/photo-1633964913295-ceb43826e7c9?w=500&auto=format&fit=crop&q=80",
+    "price": 26.00,
+    "availability": "Available",
+    "status": "Active",
+    "createdAt": "2026-01-23"
+  },
+  {
+    "id": "food-4",
+    "name": "Saffron Seafood Paella",
+    "description": "Spanish bomba rice with tiger prawns, blue mussels, calamari, saffron threads, and smoked paprika.",
+    "categoryId": "cat-4",
+    "categoryName": "Mediterranean Seafood",
+    "image": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?w=500&auto=format&fit=crop&q=80",
+    "price": 36.00,
+    "availability": "Available",
+    "status": "Active",
+    "createdAt": "2026-01-26"
+  },
+  {
+    "id": "food-5",
+    "name": "Burrata Caprese Board",
+    "description": "Fresh Puglia burrata, heirloom tomatoes, basil pesto drizzle, balsamic glaze reduction, and grilled ciabatta.",
+    "categoryId": "cat-5",
+    "categoryName": "Appetizers & Tapas",
+    "image": "https://images.unsplash.com/photo-1592417817098-8f3d6910985c?w=500&auto=format&fit=crop&q=80",
+    "price": 17.00,
+    "availability": "Available",
+    "status": "Active",
+    "createdAt": "2026-02-02"
+  },
+  {
+    "id": "food-6",
+    "name": "Classic Venetian Tiramisu",
+    "description": "Espresso-soaked ladyfingers, velvety mascarpone cream, dark chocolate shavings, and Dutch cocoa powder.",
+    "categoryId": "cat-6",
+    "categoryName": "Artisanal Desserts",
+    "image": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?w=500&auto=format&fit=crop&q=80",
+    "price": 11.50,
+    "availability": "Available",
+    "status": "Active",
+    "createdAt": "2026-02-06"
+  },
+  {
+    "id": "food-7",
+    "name": "Spicy Calabrian Diavola Pizza",
+    "description": "Fiery Calabrian salami, nduja, smoked provolone, red pepper flakes, and organic wildflower hot honey.",
+    "categoryId": "cat-1",
+    "categoryName": "Artisan Pizza",
+    "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=500&auto=format&fit=crop&q=80",
+    "price": 21.00,
+    "availability": "Available",
+    "status": "Active",
+    "createdAt": "2026-02-07"
+  },
+  {
+    "id": "food-8",
+    "name": "Pan-Seared Chilean Sea Bass",
+    "description": "Crispy skin sea bass fillet, lemon herb beurre blanc, sauteed baby asparagus, and charred cherry tomatoes.",
+    "categoryId": "cat-4",
+    "categoryName": "Mediterranean Seafood",
+    "image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?w=500&auto=format&fit=crop&q=80",
+    "price": 42.00,
+    "availability": "Unavailable",
+    "status": "Active",
+    "createdAt": "2026-02-09"
+  },
+  {
+    "id": "food-9",
+    "name": "Smoked Old Fashioned",
+    "description": "Small batch bourbon, aromatic angostura bitters, demerara sugar, torched orange peel, and hickory smoke.",
+    "categoryId": "cat-7",
+    "categoryName": "Craft Beverages & Wine",
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=500&auto=format&fit=crop&q=80",
+    "price": 15.00,
+    "availability": "Available",
+    "status": "Active",
+    "createdAt": "2026-02-10"
+  },
+  {
+    "id": "food-10",
+    "name": "Braised Lamb Shank Fondue",
+    "description": "Slow-braised lamb shank with rosemary demi-glace and winter cheese fondue dip.",
+    "categoryId": "cat-8",
+    "categoryName": "Seasonal Winter Specials",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=500&auto=format&fit=crop&q=80",
+    "price": 38.00,
+    "availability": "Unavailable",
+    "status": "Inactive",
+    "createdAt": "2026-02-12"
+  }
+]
